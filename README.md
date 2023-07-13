@@ -10,7 +10,7 @@ En estos repositorios, he creado varios proyectos en mi formacion como desarroll
 
 El repositorio se organiza de la siguiente manera:
 
-- `/docs`: Aquí encontrarás la documentación detallada sobre el proyecto.
+- `/docs`: Aquí encontrarás la documentación detallada sobre los proyectos.
 - `/src`: Este directorio contiene el código fuente del proyecto.
 
 ## Contribución
