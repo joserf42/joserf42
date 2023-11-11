@@ -23,7 +23,7 @@ Si encuentras algún problema o tienes alguna pregunta, por favor crea un proble
 
 ## Contacto
 
-Si deseas ponerse en contacto conmigo, puedes hacerlo a través de mi dirección de correo electrónico jdrojas1828@gmail.com o en LinkedIn https://www.linkedin.com/in/jos%C3%A9-daniel-rojas-sgsi/.
+Si deseas ponerse en contacto conmigo, puedes hacerlo a través de mi dirección de correo electrónico jdrojas1828@gmail.com o en LinkedIn https://www.linkedin.com/in/joserojasingeniero/.
 
 ¡Gracias por visitar mi repositorio y espero que encuentres útil mi proyecto! No dudes en explorar y dejar tus comentarios.
 
